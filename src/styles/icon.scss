@@ -12,7 +12,7 @@
 
   &--phone {
     background-image: url('../img/Phone-number.png');
-    position: relative; // Make sure the icon is relatively positioned
+    position: relative;
 
     &::after {
       content: "+1 234 555-55-55";
